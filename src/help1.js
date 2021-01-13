@@ -11,6 +11,4 @@ const help1 = (prefix) => {
 ➸ *${prefix}boatarde* 
 ════════════════════`
 }
-
 exports.help1 = help1
-
