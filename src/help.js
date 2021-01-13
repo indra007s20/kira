@@ -1,9 +1,8 @@
 const help = (prefix) => {
-	return ` ❉─────MENUS─────❉\n
-╔═══════════════════════════════════\n
+	return ` ❉─────INFO─────❉\n
+╔═══════════════════════════════════
 ║│➸PREFIXO: [${prefix}]
 ║│➸*${prefix}menu*
-║│➸*${prefix}menu1*
 ║│➸STATUS: *「ONLINE」*
 ╚═══════════════════════════════════\n
 	         ❉─────COMANDOS STICKER─────❉\n
@@ -171,7 +170,16 @@ const help = (prefix) => {
 ║│➸CRIADOR DO MENU: TIO PAIN XD\n
 ║│➸NUMERO DO DONO: wa.me/5511949545217\n
 ║│➸DIA DE CRIAÇÃO: 04/01/2021\n
-╚═══════════════════════════════════\n`
+╚═══════════════════════════════════\n
+╭────────────────╮
+ *COMANDOS DO BOT PAIN NOVOS*
+╰────────────────╯
+════════════════════
+➸ *${prefix}regras*
+➸ *${prefix}boanoite*
+➸ *${prefix}bomdia*
+➸ *${prefix}boatarde* 
+════════════════════\n`
 }
 
 exports.help = help
