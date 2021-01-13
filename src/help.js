@@ -37,7 +37,7 @@ const help = (prefix) => {
 ║│➸desc : converter texto em fala / áudio
 ║│➸usage : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan*\n
    ════════════════════════════════════\n
-║│➸command : *${prefix}lolicon*
+║│➸command : *${prefix}loli*
 ║│➸desc : imagens aleatórias de loli
 ║│➸usage : apenas envie o comando\n
    ════════════════════════════════════\n
